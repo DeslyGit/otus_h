@@ -1,1 +1,1 @@
-c:\Otus\sonar-scanner\bin\sonar-scanner.bat
+c:\Otus\sonar-scanner\bin\sonar-scanner.bat -D"sonar.branch.name = feuture/task-7"
